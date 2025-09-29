@@ -22,7 +22,7 @@ Expected Outcome:
   - **Ranking Functions**:
        Querries: [window_function_querries.sql](scripts/schema.sql)
        Use case: Top products by revenue per region/quarter
-        ![Ranking results](screenshots/rank.png)
+        ![Ranking results](screenshots/rank().png)
 
   
 
