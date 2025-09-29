@@ -12,4 +12,7 @@ Expected Outcome:
 - Segment customers into quartiles and percentiles for loyalty programs.
 
        2. DATABASE SCHEMA
+  The Database was implemented using the following sql script: [schema.sql](scripts/schema.sql)
+
+  
     
