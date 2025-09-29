@@ -13,6 +13,11 @@ Expected Outcome:
 
        2. DATABASE SCHEMA
   The Database was implemented using the following sql script: [schema.sql](scripts/schema.sql)
+  
+  ```sql
+  --snippet from schema.sql
+  
+  
 
   
     
