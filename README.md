@@ -1,4 +1,5 @@
 PLSQL WINDOW FUNCTIONS PROJECT
+
 Written by: UWAYO Nziza Ines
      1. PROBLEM STATEMENT
 The sales department of a retail company in Rwanda wants to analyze product performance and customer spending across different regions.  
