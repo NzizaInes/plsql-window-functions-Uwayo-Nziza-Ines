@@ -14,14 +14,9 @@ Expected Outcome:
        2. DATABASE SCHEMA
   The Database was implemented using the following sql script: [schema.sql](scripts/schema.sql)
   
-  ```sql
-  --snippet from schema.sql
-  --Customers
-CREATE TABLE customers(
-customer_id INT PRIMARY KEY,
-c_name VARCHAR(200) NOT NULL,
-region VARCHAR(100)
-);
+ **customers**: customer_id (PK), name, region  
+- **products**: product_id (PK), name, category  
+- **transactions**: transaction_id (PK), customer_id (FK), product_id (FK), sale_date, amount  
 
   
 
