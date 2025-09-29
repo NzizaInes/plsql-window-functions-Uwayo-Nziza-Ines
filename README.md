@@ -66,9 +66,9 @@ Expected Outcome:
    **Diagnostic (Why did it happen?)**
    
 - The dominance of Rice and Milk Powder reflects essential food demand. These are staples, so customers buy them repeatedly.
-- 
+  
 - Customers 1002 and 1006 are located in regions with higher frequency of purchases. This suggests regional demand differences.
-- 
+  
 - Higher-value items (Cooking Oil, Coffee Beans) are less frequent, possibly due to higher prices or being less essential day-to-day.
 
     **Prescriptive (What next?)**
@@ -90,6 +90,7 @@ Bundle essential products (Rice + Milk Powder) with less frequent items (Cheese,
 - Monitoring: Keep tracking month-over-month growth % to spot when demand shifts from essentials to non-essentials.
 
     **5. References:**
+  
 PostgreSQL Window Functions Tutorial – https://www.postgresqltutorial.com/postgresql-window-function/
 
 “SQL Window Functions: A Comprehensive Guide” – TutorialPoint
