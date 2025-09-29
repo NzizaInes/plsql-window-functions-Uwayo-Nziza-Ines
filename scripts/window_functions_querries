@@ -1,0 +1,14 @@
+--Windows Functions Implementation
+--Ranking Functions
+--Row_number
+SELECT 
+    transaction_id,
+    customer_id,
+    product_id,
+    amount,
+    ROW_NUMBER() OVER (ORDER BY amount DESC) AS row_num
+FROM transactions
+ORDER BY amount DESC;
+
+
+
