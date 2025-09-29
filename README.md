@@ -14,9 +14,15 @@ Expected Outcome:
        2. DATABASE SCHEMA
   The Database was implemented using the following sql script: [schema.sql](scripts/schema.sql)
   
- **customers**: customer_id (PK), name, region  
+- **customers**: customer_id (PK), name, region  
 - **products**: product_id (PK), name, category  
-- **transactions**: transaction_id (PK), customer_id (FK), product_id (FK), sale_date, amount  
+- **transactions**: transaction_id (PK), customer_id (FK), product_id (FK), sale_date, amount
+
+       3. Querries
+  - **Ranking Functions**:
+       Querries: [window_function_querries.sql](scripts/schema.sql)
+       Use case: Top products by revenue per region/quarter
+        ![Ranking results](screenshots/rank)
 
   
 
