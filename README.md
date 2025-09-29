@@ -32,7 +32,7 @@ Expected Outcome:
 
   Use case: Running totals, moving average, frame comparison
       [sum_running_total.png](screenshots/sum_running_total.png)
-      [AVG moving average.png](screenshots/AVG moving average.png)
+      [AVG_moving_average.png](screenshots/AVG_moving_average.png)
 
  -**Navigation Funtions**:
 
@@ -51,7 +51,7 @@ Expected Outcome:
        [CUME_DIST().png](screenshots/CUME_DIST.png)
 
 
-                 **Results Analysis**
+**Results Analysis**
 
   
     
