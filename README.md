@@ -16,7 +16,13 @@ Expected Outcome:
   
   ```sql
   --snippet from schema.sql
-  
+  --Customers
+CREATE TABLE customers(
+customer_id INT PRIMARY KEY,
+c_name VARCHAR(200) NOT NULL,
+region VARCHAR(100)
+);
+
   
 
   
